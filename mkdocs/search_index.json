@@ -1,0 +1,39 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to Gina's first attempt playing with MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nHere is an image\n\n\n\n\n\nSection 1\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nx = 5\nprint(x)\n\n\n\n\n$$\\pi$$\n\n\nSection 2\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-ginas-first-attempt-playing-with-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .  Here is an image",
+            "title": "Welcome to Gina's first attempt playing with MkDocs"
+        },
+        {
+            "location": "/#section-1",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.   x = 5\nprint(x)  $$\\pi$$",
+            "title": "Section 1"
+        },
+        {
+            "location": "/#section-2",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Section 2"
+        },
+        {
+            "location": "/start/",
+            "text": "",
+            "title": "Get Started"
+        },
+        {
+            "location": "/config/setup/",
+            "text": "",
+            "title": "Setup"
+        },
+        {
+            "location": "/config/debug/",
+            "text": "",
+            "title": "Debug"
+        }
+    ]
+}
